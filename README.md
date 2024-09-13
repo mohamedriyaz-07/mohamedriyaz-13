@@ -4,9 +4,10 @@
 
 * Future software engineer 
 * Deep Learning in software engineering 
-* Demanding Perfectionist
+* Basic Coder
+* expert in debugging
 
-🌱 I'm currently learning: B.Tech IT
+🌱 I'm currently learning: B.Tech IT         
 📬 How to reach me: [smohamedriyaz07@gmail.com](mailto:smohamedriyaz07@gmail.com)<br>
 💪 This is where I write, code and solve problems.<br><br>
  As a IT Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
