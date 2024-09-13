@@ -1,6 +1,6 @@
 # Welcome to [mohamedriyaz](https://github.com/mohamedriyaz-07/) profile! <a href="https://github.com/mohamedriyaz-07/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a B.Tech Student   <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" height=15% width=40% align="right">
+### I'm a B.Tech Student   <img src="https://i.pinimg.com/originals/0c/ba/f2/0cbaf2966dbc9b332b06db462053c487.gif" height=15% width=40% align="right">
 
 * Future software engineer 
 * Deep Learning in software engineering 
